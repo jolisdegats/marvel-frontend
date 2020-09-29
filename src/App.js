@@ -6,7 +6,7 @@ import Comics from "./containers/Comics";
 import Characters from "./containers/Characters";
 import SinglePage from "./containers/SinglePage";
 import Favs from "./containers/Favs";
-import Signup from "./containers/Signup";
+// import Signup from "./containers/Signup";
 
 import Login from "./components/Login";
 import Header from "./components/Header";
@@ -30,9 +30,9 @@ const App = () => {
         <Login loginModal={loginModal} setLoginModal={setLoginModal}></Login>
         <Header setLoginModal={setLoginModal}></Header>
         <Switch>
-          <Route path="/signup">
+          {/* <Route path="/signup">
             <Signup></Signup>
-          </Route>
+          </Route> */}
           <Route path="/character/:id">
             <SinglePage
               favArr={favArr}

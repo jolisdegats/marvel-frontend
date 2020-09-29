@@ -27,7 +27,7 @@ const Header = ({ setLoginModal }) => {
         <div className="login">
           <button
             className="redButton"
-            onClick={() => setLoginModal("loginVisible")}
+            // onClick={() => setLoginModal("loginVisible")}
           >
             Login
           </button>
