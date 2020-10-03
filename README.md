@@ -1,18 +1,24 @@
 <p align="center">
 <a href="https://marvel-jolisdegats.netlify.app/ ">
-  <img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1601687272/portfolio/ReadMe/marvel_kuviwj.jpg" alt ="Marvel Portfolio Project - Banner"  />
+  <img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1601692522/portfolio/ReadMe/marvel_tseusa.jpg" alt ="Marvel Portfolio Project - Banner"  />
   </a>
 </p>
-
+<br/>
+<br/>
 <h1>Marvel project (React/Node)</h1>
 <br/>
-<p> Personnal fullstack project based on the <a href=https://developer.marvel.com/>Marvel Developper API</a>. You can find the Backend code I made <a href=https://github.com/jolisdegats/marvel-backend> here</a>.<p><p>
+<p> Personnal fullstack project based on the <a href="https://developer.marvel.com/">Marvel Developper API</a>. You can find the Backend code I made <a href="https://github.com/jolisdegats/marvel-backend"> here</a>.<p><p>
 The project is currently hosted on Netlify (frontend) and Heroku (backend). Have a look at the live demo below and feel free to give me some feedback. </p>
 
 <h3>
-<a href="https://marvel-jolisdegats.netlify.app/">Demo</a>
+<a href="https://marvel-jolisdegats.netlify.app/">Live Demo</a>
 </h3>
 <br/>
+<p align="center">
+<a href="https://marvel-jolisdegats.netlify.app/ ">
+  <img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1601624221/portfolio/marvel/Marvel_gb6myd.gif" alt ="Marvel Portfolio Project - Banner"  />
+  </a>
+</p>
 <br/>
 <h2>Features</h2>
 <ul>
@@ -62,17 +68,18 @@ Just run `yarn` in your console to install all dependencies and `yarn start` to 
 
 Copy/paste the following 
 `REACT_APP_APIURL=https://marvel-backend-jolisdegats.herokuapp.com` 
-This will set up the variables I declared in the project to make the backend calls. Don&apos;t forget to relaunch your frontend if it was already running before adding or modifiying your .env file. For more info, please refer to <a href=https://github.com/jolisdegats/marvel-backend>my backend repo</a>.
+This will set up the variables I declared in the project to make the backend calls. Don&apos;t forget to relaunch your frontend if it was already running before adding or modifiying your .env file. For more info, please refer to <a href="https://github.com/jolisdegats/marvel-backend">my backend repo</a>.
 
-In case you&apos;d like to run the backend locally as well, just replace `https://marvel-backend-jolisdegats.herokuapp.com/` with `http://localhost:3100` (3100 may change depending on which port your backend is running).
+In case you&apos;d like to run the backend locally as well, just replace `https://marvel-backend-jolisdegats.herokuapp.com` with `http://localhost:3100` (3100 may change depending on which port your backend is running). If you want to upload your own backend, make sure you don't have a `/` at the end of your address.
+
+
 <br/>
+<h2>Contact</h2>
+<p>💼 Find me on <a href="https://www.linkedin.com/in/julieszwarc/">LinkedIn</a></p>
 
-## Contact
-💼 Find me on [LinkedIn](https://www.linkedin.com/in/julieszwarc/ "LinkedIn")
+<p>🦄 Stop by my <a href="https://julieszwarc.com">portfolio</a></p>
 
-🦄 Stop by my [portfolio](https://julieszwarc.com/ "portfolio")
-
-👩🏼‍💻 Take a look at my [GitHub](https://github.com/jolisdegats "GitHub")
+<p>👩🏼‍💻 Take a look at my <a href="https://github.com/jolisdegats">GitHub</a></p>
 <br/>
 <br/>
 
