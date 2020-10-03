@@ -14,6 +14,7 @@ The project is currently hosted on Netlify (frontend) and Heroku (backend). Have
 <a href="https://marvel-jolisdegats.netlify.app/">Live Demo</a>
 </h3>
 <br/>
+<br/>
 <p align="center">
 <a href="https://marvel-jolisdegats.netlify.app/ ">
   <img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1601624221/portfolio/marvel/Marvel_gb6myd.gif" alt ="Marvel Portfolio Project - Banner"  />
