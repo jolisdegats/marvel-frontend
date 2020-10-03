@@ -51,7 +51,7 @@ The project is currently hosted on Netlify (frontend) and Heroku (backend). Have
 <br/>
 <h2>Stack</h2>
 
-<p>Initialized with `create-react-app` and made with the following stack:<br/>
+<p>Initialized with <code>create-react-app</code> and made with the following stack:<br/>
 Frontend : React, axios, react-pagination, react-router-dom<br/>
 Backend : NodeJS, cors, dotenv, express, express-formidable, mongoose</p>
 
@@ -59,7 +59,7 @@ Backend : NodeJS, cors, dotenv, express, express-formidable, mongoose</p>
 <br/>
 <h2>Install</h2>
 
-<p>Just run `yarn` in your console to install all dependencies and `yarn start` to launch. Local demo should open on http://localhost:3000.</p>
+<p>Just run <code>yarn</code> in your console to install all dependencies and <code>yarn start</code> to launch. Local demo should open on http://localhost:3000.</p>
 
 <br/>
 <h3>Environment variables</h3>
@@ -68,10 +68,10 @@ Backend : NodeJS, cors, dotenv, express, express-formidable, mongoose</p>
 <p>In the <b>src</b> folder, create a <b>.env</b> file. </p>
 
 <p>Copy/paste the following 
-`REACT_APP_APIURL=https://marvel-backend-jolisdegats.herokuapp.com` 
+<code>REACT_APP_APIURL=https://marvel-backend-jolisdegats.herokuapp.com</code> 
 This will set up the variables I declared in the project to make the backend calls. Don&apos;t forget to relaunch your frontend if it was already running before adding or modifiying your .env file. For more info, please refer to <a href="https://github.com/jolisdegats/marvel-backend">my backend repo</a>.</p>
 
-<p>In case you&apos;d like to run the backend locally as well, just replace `https://marvel-backend-jolisdegats.herokuapp.com` with `http://localhost:3100` (3100 may change depending on which port your backend is running). If you want to upload your own backend, make sure you don't have a `/` at the end of your address.</p>
+<p>In case you&apos;d like to run the backend locally as well, just replace <code>https://marvel-backend-jolisdegats.herokuapp.com</code> with <code>http://localhost:3100</code> (3100 may change depending on which port your backend is running). If you want to upload your own backend, make sure you don't have a <code>/</code> at the end of your address.</p>
 
 
 <br/>
